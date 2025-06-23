@@ -1,4 +1,4 @@
-# 🛒 Task 2: Estimating Retail Prices
+# 🛒 Task 1: Estimating Retail Prices
 ### 📌 Part of Business Analyst Internship @ ELiteTEch | June 2025
 
 ## 📈 Objective
